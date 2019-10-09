@@ -1,5 +1,5 @@
 # Simple-python-scripts
-This repository contains python scripts to accomplish simple bioinformatics tasks
+This repository contains python scripts to accomplish simple bioinformatics tasks.
 
 # Dot plot matrices
 In bioinformatics a dot plot is a graphical method for comparing two biological sequences and identifying regions of close similarity. 
